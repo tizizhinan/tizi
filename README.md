@@ -29,6 +29,8 @@
 
 数据随实测更新，最新价格、测速表与每 GB 对比以站内为准：**[机场推荐总榜](https://tizizhinan.com/airport/recommend/) · [性价比对比](https://tizizhinan.com/airport/value/) · [机场对比工具](https://tizizhinan.com/compare/)**。
 
+> 📖 单家深度评测：**[二猫云怎么样？三网优化 + AI 全解锁评测（8 折优惠码）](./ermaoyun.md)**
+
 ---
 
 ## 按需求怎么选
