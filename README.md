@@ -3,7 +3,7 @@
 > 独立评测榜单：按线路类型、晚高峰稳定性、AI 与流媒体解锁、每 GB 真实单价综合评估；每天从海外探测节点自动检测官网可达性与节点连通率，数据公开可引用。
 > **完整评测、测速表与实时数据 → [梯子指南 tizizhinan.com](https://tizizhinan.com/)**
 
-![更新](https://img.shields.io/badge/更新-2026--09-2ea44f) ![收录机场](https://img.shields.io/badge/收录机场-8-blue) ![监测](https://img.shields.io/badge/每日监测-1%20天-orange) ![数据](https://img.shields.io/badge/数据-CC%20BY%204.0-lightgrey)
+![更新](https://img.shields.io/badge/更新-2026--09-2ea44f) ![收录机场](https://img.shields.io/badge/收录机场-8-blue) ![监测](https://img.shields.io/badge/每日监测-2%20天-orange) ![数据](https://img.shields.io/badge/数据-CC%20BY%204.0-lightgrey)
 
 关键词：翻墙机场推荐、科学上网、梯子推荐、机场评测、便宜机场、稳定机场、Clash / Shadowrocket / v2rayN 节点、IEPL / IPLC 专线、ChatGPT / Claude / Codex / Gemini 解锁、Netflix 4K。
 
@@ -41,21 +41,21 @@
 
 ---
 
-## 每日自动监测（最近一次 2026-09-15 16:07）
+## 每日自动监测（最近一次 2026-09-18 15:21）
 
 <!-- monitor:start -->
 | 机场 | 最近一次检测 | 连续正常 |
 |:--|:--|:--:|
-| [二猫云](https://tizizhinan.com/brands/ermaoyun/) | 官网在线 · 订阅正常 69 节点 · 100%（1 天） | 8 天 |
-| [宇宙云](https://tizizhinan.com/brands/yuzhouyun/) | 官网在线 · 订阅正常 70 节点 · 100%（1 天） | 8 天 |
-| [暮光网络](https://tizizhinan.com/brands/muguang/) | — | 0 天 |
-| [星岛梦](https://tizizhinan.com/brands/xingdaomeng/) | — | 0 天 |
-| [微风网络](https://tizizhinan.com/brands/weifeng/) | — | 0 天 |
-| [飞猫云](https://tizizhinan.com/brands/feimao/) | — | 0 天 |
-| [光速云](https://tizizhinan.com/brands/guangsu/) | — | 0 天 |
-| [无忧链接](https://tizizhinan.com/brands/wuyou/) | — | 0 天 |
+| [二猫云](https://tizizhinan.com/brands/ermaoyun/) | 官网在线 · 订阅失败 · 50%（2 天） | 0 天 |
+| [宇宙云](https://tizizhinan.com/brands/yuzhouyun/) | 官网在线 · 订阅失败 · 50%（2 天） | 0 天 |
+| [暮光网络](https://tizizhinan.com/brands/muguang/) | 官网在线 · 100%（1 天） | 1 天 |
+| [星岛梦](https://tizizhinan.com/brands/xingdaomeng/) | 官网在线 · 100%（1 天） | 1 天 |
+| [微风网络](https://tizizhinan.com/brands/weifeng/) | 官网在线 · 100%（1 天） | 1 天 |
+| [飞猫云](https://tizizhinan.com/brands/feimao/) | 官网在线 · 100%（1 天） | 1 天 |
+| [光速云](https://tizizhinan.com/brands/guangsu/) | 官网在线 · 100%（1 天） | 1 天 |
+| [无忧链接](https://tizizhinan.com/brands/wuyou/) | 官网在线 · 100%（1 天） | 1 天 |
 
-探测节点：海外探测节点。「可用率」按官网可达、订阅可拉取、且测了节点的日子至少一个节点可连计算；已连续记录 1 天。
+探测节点：海外探测节点。「可用率」按官网可达、订阅可拉取、且测了节点的日子至少一个节点可连计算；已连续记录 2 天。
 专线机场的入口只对国内开放，海外探测节点只验证订阅是否有效。逐日历史与色条见 [机场状态监测](https://tizizhinan.com/status/)，机器可读数据见 [monitor.json](https://tizizhinan.com/data/monitor.json)（CC BY 4.0，本仓库 `data/` 目录每日同步）。
 <!-- monitor:end -->
 

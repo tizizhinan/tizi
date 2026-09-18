@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-15T08:07:00.120Z",
+  "checkedAt": "2026-09-18T07:21:37.463Z",
   "region": "overseas-my",
   "providers": {
     "ermaoyun": {
@@ -7,22 +7,12 @@
       "site": {
         "ok": true,
         "status": 200,
-        "ms": 577
+        "ms": 519
       },
       "sub": {
-        "ok": true,
-        "status": 200,
-        "format": "clash",
-        "total": 69,
-        "unique": 69,
-        "tested": 0,
-        "reachable": null,
-        "medianMs": null,
-        "p90Ms": null,
-        "protocols": {
-          "vless": 69
-        },
-        "nodesSkipped": "cn-only-entry"
+        "ok": false,
+        "status": 404,
+        "error": "http:404"
       }
     },
     "yuzhouyun": {
@@ -30,67 +20,67 @@
       "site": {
         "ok": true,
         "status": 200,
-        "ms": 331
+        "ms": 297
       },
       "sub": {
-        "ok": true,
-        "status": 200,
-        "format": "clash",
-        "total": 70,
-        "unique": 70,
-        "tested": 0,
-        "reachable": null,
-        "medianMs": null,
-        "p90Ms": null,
-        "protocols": {
-          "vless": 70
-        },
-        "nodesSkipped": "cn-only-entry"
+        "ok": false,
+        "status": 404,
+        "error": "http:404"
       }
     },
-    "baoyun": {
-      "name": "宝云",
+    "xingdaomeng": {
+      "name": "星岛梦",
       "site": {
         "ok": true,
         "status": 200,
-        "ms": 366
+        "ms": 270
       },
-      "sub": {
-        "ok": true,
-        "status": 200,
-        "format": "clash",
-        "total": 23,
-        "unique": 20,
-        "tested": 20,
-        "reachable": 20,
-        "medianMs": 99,
-        "p90Ms": 221,
-        "protocols": {
-          "vless": 23
-        }
-      }
+      "sub": null
     },
-    "jiuyun": {
-      "name": "九云",
+    "muguang": {
+      "name": "暮光网络",
       "site": {
         "ok": true,
         "status": 200,
-        "ms": 202
+        "ms": 192
       },
-      "sub": {
+      "sub": null
+    },
+    "weifeng": {
+      "name": "微风网络",
+      "site": {
         "ok": true,
         "status": 200,
-        "format": "clash",
-        "total": 23,
-        "unique": 20,
-        "tested": 20,
-        "reachable": 20,
-        "medianMs": 151,
-        "p90Ms": 228,
-        "protocols": {
-          "vless": 23
-        }
-      }
+        "ms": 83
+      },
+      "sub": null
+    },
+    "feimao": {
+      "name": "飞猫云",
+      "site": {
+        "ok": true,
+        "status": 200,
+        "ms": 704
+      },
+      "sub": null
+    },
+    "guangsu": {
+      "name": "光速云",
+      "site": {
+        "ok": true,
+        "status": 200,
+        "ms": 185
+      },
+      "sub": null
+    },
+    "wuyou": {
+      "name": "无忧链接",
+      "site": {
+        "ok": true,
+        "status": 200,
+        "ms": 198
+      },
+      "sub": null
     }
   }
 }
