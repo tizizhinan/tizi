@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-18T07:21:37.463Z",
+  "checkedAt": "2026-09-19T12:00:23.282Z",
   "region": "overseas-my",
   "providers": {
     "ermaoyun": {
@@ -7,12 +7,7 @@
       "site": {
         "ok": true,
         "status": 200,
-        "ms": 519
-      },
-      "sub": {
-        "ok": false,
-        "status": 404,
-        "error": "http:404"
+        "ms": 465
       }
     },
     "yuzhouyun": {
@@ -20,12 +15,7 @@
       "site": {
         "ok": true,
         "status": 200,
-        "ms": 297
-      },
-      "sub": {
-        "ok": false,
-        "status": 404,
-        "error": "http:404"
+        "ms": 269
       }
     },
     "xingdaomeng": {
@@ -33,54 +23,48 @@
       "site": {
         "ok": true,
         "status": 200,
-        "ms": 270
-      },
-      "sub": null
+        "ms": 280
+      }
     },
     "muguang": {
       "name": "暮光网络",
       "site": {
         "ok": true,
         "status": 200,
-        "ms": 192
-      },
-      "sub": null
+        "ms": 165
+      }
     },
     "weifeng": {
       "name": "微风网络",
       "site": {
         "ok": true,
         "status": 200,
-        "ms": 83
-      },
-      "sub": null
+        "ms": 79
+      }
     },
     "feimao": {
       "name": "飞猫云",
       "site": {
         "ok": true,
         "status": 200,
-        "ms": 704
-      },
-      "sub": null
+        "ms": 381
+      }
     },
     "guangsu": {
       "name": "光速云",
       "site": {
         "ok": true,
         "status": 200,
-        "ms": 185
-      },
-      "sub": null
+        "ms": 157
+      }
     },
     "wuyou": {
       "name": "无忧链接",
       "site": {
         "ok": true,
         "status": 200,
-        "ms": 198
-      },
-      "sub": null
+        "ms": 171
+      }
     }
   }
 }
