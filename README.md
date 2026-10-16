@@ -3,7 +3,7 @@
 > 独立评测榜单：按线路类型、晚高峰稳定性、AI 与流媒体解锁、每 GB 真实单价综合评估；每天从海外探测节点自动检测官网可达性，数据公开可引用。
 > **完整评测、测速表与实时数据 → [梯子指南 tizizhinan.co](https://tizizhinan.co/)**
 
-![更新](https://img.shields.io/badge/更新-2026--10-2ea44f) ![收录机场](https://img.shields.io/badge/收录机场-9-blue) ![监测](https://img.shields.io/badge/每日监测-25%20天-orange) ![数据](https://img.shields.io/badge/数据-CC%20BY%204.0-lightgrey)
+![更新](https://img.shields.io/badge/更新-2026--10-2ea44f) ![收录机场](https://img.shields.io/badge/收录机场-9-blue) ![监测](https://img.shields.io/badge/每日监测-26%20天-orange) ![数据](https://img.shields.io/badge/数据-CC%20BY%204.0-lightgrey)
 
 关键词：翻墙机场推荐、科学上网、梯子推荐、机场评测、便宜机场、稳定机场、Clash / Shadowrocket / v2rayN 节点、IEPL / IPLC 专线、ChatGPT / Claude / Codex / Gemini 解锁、Netflix 4K。
 
@@ -25,40 +25,40 @@
 
 ---
 
-## 机场推荐榜（2026-10-15 更新）
+## 机场推荐榜（2026-10-16 更新）
 
 | 排名 | 机场 | 主打套餐 | 每 GB | 线路 | AI 解锁 | 峰值 | 运营 / 收录 | 本月变化 | 评分 |
 |:--:|:--|:--|:--:|:--|:--|:--:|:--|:--:|:--:|
 | 🥇 | **[宇宙云](https://tizizhinan.co/brands/yuzhouyun/)** | ¥25 / 月 · 120GB | ¥0.21/GB | IEPL 专线 | ChatGPT / Claude / Gemini ⚠️ | 2.0 Gbps | 运营约 3 年 | ↑1 | **9.2** |
 | 🥈 | **[二猫云](https://tizizhinan.co/brands/ermaoyun/)** | ¥20 / 月 · 130GB | ¥0.15/GB | 三网优化 · IEPL 专线 | 全解锁 ✅ | 2.6 Gbps | 运营约 4 年 | ↓1 | **9.7** |
-| 🥉 | **[光速云](https://tizizhinan.co/brands/guangsu/)** | ¥23 / 月 · 148GB | ¥0.16/GB | IPLC 专线 · 原生 IP | ChatGPT / Claude / Gemini ⚠️ | 未公开 | 收录 28 天 | 新收录 | **8.4** |
+| 🥉 | **[光速云](https://tizizhinan.co/brands/guangsu/)** | ¥23 / 月 · 148GB | ¥0.16/GB | IPLC 专线 · 原生 IP | ChatGPT / Claude / Gemini ⚠️ | 未公开 | 收录 29 天 | 新收录 | **8.4** |
 | 4 | **[星岛梦](https://tizizhinan.co/brands/xingdaomeng/)** | ¥8 / 月 · 60GB | ¥0.13/GB | 企业级内网专线 | ChatGPT / Claude / Gemini ⚠️ | 2.0 Gbps | 运营约 6 年 | 恢复收录 | **8.6** |
 | 5 | **[暮光网络](https://tizizhinan.co/brands/muguang/)** | ¥20 / 月 · 120GB | ¥0.17/GB | IEPL 专线 · IPLC 内网 | ChatGPT / Claude / Cursor ⚠️ | 未公开 | 运营约 3 年 | 新收录 | **8.7** |
 | 6 | **[微风网络](https://tizizhinan.co/brands/weifeng/)** | ¥27 / 月 · 200GB | ¥0.14/GB | IPLC 专线 | ChatGPT / Claude / Gemini ⚠️ | 未公开 | 运营约 1 年 | 新收录 | **8.6** |
-| 7 | **[飞猫云](https://tizizhinan.co/brands/feimao/)** | ¥25 / 月 · 150GB | ¥0.17/GB | IPLC 专线 · BGP 中转 | ChatGPT / Claude / Gemini ⚠️ | 未公开 | 收录 28 天 | 新收录 | **8.5** |
-| 8 | **[无忧链接](https://tizizhinan.co/brands/wuyou/)** | ¥19 / 月 · 100GB | ¥0.19/GB | IPLC 专线 | ChatGPT / Claude / Gemini ⚠️ | 未公开 | 收录 28 天 | 新收录 | **8.3** |
-| 9 | **[边缘节点](https://tizizhinan.co/brands/edgenova/)** | ¥22 / 月 · 120GB | ¥0.18/GB | IPLC 专线 | ChatGPT ⚠️ | 约 819 Mbps（第三方测速） | 收录 3 天 | 新收录 | **8.0** |
+| 7 | **[飞猫云](https://tizizhinan.co/brands/feimao/)** | ¥25 / 月 · 150GB | ¥0.17/GB | IPLC 专线 · BGP 中转 | ChatGPT / Claude / Gemini ⚠️ | 未公开 | 收录 29 天 | 新收录 | **8.5** |
+| 8 | **[无忧链接](https://tizizhinan.co/brands/wuyou/)** | ¥19 / 月 · 100GB | ¥0.19/GB | IPLC 专线 | ChatGPT / Claude / Gemini ⚠️ | 未公开 | 收录 29 天 | 新收录 | **8.3** |
+| 9 | **[边缘节点](https://tizizhinan.co/brands/edgenova/)** | ¥22 / 月 · 120GB | ¥0.18/GB | IPLC 专线 | ChatGPT ⚠️ | 约 819 Mbps（第三方测速） | 收录 4 天 | 新收录 | **8.0** |
 
 前四位为编辑部固定展示顺序（宇宙云、二猫云、光速云、星岛梦），列表顺序不代表评分高低（[推广披露](https://tizizhinan.co/disclaimer/)）。完整数据对比与逐家套餐见 **[2026 翻墙机场推荐总榜](https://tizizhinan.co/airport/recommend/)**。
 
 ---
 
-## 每日自动监测（最近一次 2026-10-15 20:00）
+## 每日自动监测（最近一次 2026-10-16 20:03）
 
 <!-- monitor:start -->
 | 机场 | 最近一次检测 | 连续正常 |
 |:--|:--|:--:|
-| [宇宙云](https://tizizhinan.co/brands/yuzhouyun/) | 官网在线 · 100%（24 天） | 25 天 |
-| [二猫云](https://tizizhinan.co/brands/ermaoyun/) | 官网在线 · 100%（24 天） | 25 天 |
-| [光速云](https://tizizhinan.co/brands/guangsu/) | 官网在线 · 100%（24 天） | 24 天 |
-| [星岛梦](https://tizizhinan.co/brands/xingdaomeng/) | 官网在线 · 100%（24 天） | 24 天 |
-| [暮光网络](https://tizizhinan.co/brands/muguang/) | 官网在线 · 100%（24 天） | 24 天 |
-| [微风网络](https://tizizhinan.co/brands/weifeng/) | 官网在线 · 100%（24 天） | 24 天 |
-| [飞猫云](https://tizizhinan.co/brands/feimao/) | 官网在线 · 100%（24 天） | 24 天 |
-| [无忧链接](https://tizizhinan.co/brands/wuyou/) | 官网在线 · 100%（24 天） | 24 天 |
-| [边缘节点](https://tizizhinan.co/brands/edgenova/) | 官网在线 · 100%（3 天） | 3 天 |
+| [宇宙云](https://tizizhinan.co/brands/yuzhouyun/) | 官网在线 · 100%（25 天） | 26 天 |
+| [二猫云](https://tizizhinan.co/brands/ermaoyun/) | 官网在线 · 100%（25 天） | 26 天 |
+| [光速云](https://tizizhinan.co/brands/guangsu/) | 官网在线 · 100%（25 天） | 25 天 |
+| [星岛梦](https://tizizhinan.co/brands/xingdaomeng/) | 官网在线 · 100%（25 天） | 25 天 |
+| [暮光网络](https://tizizhinan.co/brands/muguang/) | 官网在线 · 100%（25 天） | 25 天 |
+| [微风网络](https://tizizhinan.co/brands/weifeng/) | 官网在线 · 100%（25 天） | 25 天 |
+| [飞猫云](https://tizizhinan.co/brands/feimao/) | 官网在线 · 100%（25 天） | 25 天 |
+| [无忧链接](https://tizizhinan.co/brands/wuyou/) | 官网在线 · 100%（25 天） | 25 天 |
+| [边缘节点](https://tizizhinan.co/brands/edgenova/) | 官网在线 · 100%（4 天） | 4 天 |
 
-探测节点：海外探测节点。「可用率」按官网可达计算；已连续记录 25 天。
+探测节点：海外探测节点。「可用率」按官网可达计算；已连续记录 26 天。
 逐日历史与色条见 [机场状态监测](https://tizizhinan.co/status/)，机器可读数据见 [monitor.json](https://tizizhinan.co/data/monitor.json)（CC BY 4.0，本仓库 `data/` 目录每日同步）。
 <!-- monitor:end -->
 
@@ -126,7 +126,7 @@ VLESS 协议机场，官方宣称 IPLC 专线 + 原生 IP，60 个节点集中�
 - **线路**：IPLC 专线 / 原生 IP · **协议**：VLESS · **节点**：60+（香港、新加坡、美国、台湾、日本）
 - **设备数**：不限（官方宣称） · **客户端**：官方客户端（Windows / macOS / Android / iOS）
 - **AI 标注**：ChatGPT、Claude、Gemini · **流媒体标注**：Netflix、Disney+、Max/HBO、TikTok
-- **运营 / 收录**：收录 28 天（2026-09-18 收录，开业年份未公开）
+- **运营 / 收录**：收录 29 天（2026-09-18 收录，开业年份未公开）
 
 | 套餐 | 价格 | 流量 | 每 GB | 说明 |
 |:--|:--|:--|:--:|:--|
@@ -229,7 +229,7 @@ VLESS 协议机场，官方宣称 IPLC / BGP / 原生 IP 线路，57 个节点�
 - **线路**：IPLC 专线 / BGP 中转 / 原生 IP · **协议**：VLESS · **节点**：57+（香港、台湾、日本、新加坡、美国、德国、土耳其、菲律宾、越南）
 - **设备数**：不限（官方宣称） · **客户端**：官方客户端（Windows / macOS / Android / iOS）
 - **AI 标注**：ChatGPT、Claude、Gemini · **流媒体标注**：Netflix、Disney+、Max/HBO、TikTok
-- **运营 / 收录**：收录 28 天（2026-09-18 收录，开业年份未公开）
+- **运营 / 收录**：收录 29 天（2026-09-18 收录，开业年份未公开）
 
 | 套餐 | 价格 | 流量 | 每 GB | 说明 |
 |:--|:--|:--|:--:|:--|
@@ -255,7 +255,7 @@ VLESS 协议机场，官方宣称全 IPLC 线路，50 个节点覆盖港 / 新 /
 - **线路**：IPLC 专线 · **协议**：VLESS · **节点**：50+（香港、新加坡、日本、台湾、美国）
 - **设备数**：未公开 · **客户端**：官方客户端（Windows / macOS / Android / iOS）
 - **AI 标注**：ChatGPT、Claude、Gemini · **流媒体标注**：Netflix、Disney+、Max/HBO、TikTok
-- **运营 / 收录**：收录 28 天（2026-09-18 收录，开业年份未公开）
+- **运营 / 收录**：收录 29 天（2026-09-18 收录，开业年份未公开）
 
 | 套餐 | 价格 | 流量 | 每 GB | 说明 |
 |:--|:--|:--|:--:|:--|
@@ -282,7 +282,7 @@ VLESS 协议机场，官方宣称全 IPLC 线路，50 个节点覆盖港 / 新 /
 - **线路**：IPLC 专线 · **协议**：VLESS · **节点**：未公开（香港、台湾、日本、新加坡、美国、英国）
 - **设备数**：不限（官方宣称） · **客户端**：官方客户端（Windows / macOS / Android / iOS）
 - **AI 标注**：ChatGPT · **流媒体标注**：未标注
-- **运营 / 收录**：收录 3 天（2026-10-13 收录，开业于 2026 年）
+- **运营 / 收录**：收录 4 天（2026-10-13 收录，开业于 2026 年）
 - **优惠码**：`eoht888`（8 折优惠码（限时体验小包不参与））
 
 | 套餐 | 价格 | 流量 | 每 GB | 说明 |
