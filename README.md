@@ -3,7 +3,7 @@
 > 独立评测榜单：按线路类型、晚高峰稳定性、AI 与流媒体解锁、每 GB 真实单价综合评估；每天从海外探测节点自动检测官网可达性，数据公开可引用。
 > **完整评测、测速表与实时数据 → [梯子指南 tizizhinan.blog](https://tizizhinan.blog/)**
 
-![更新](https://img.shields.io/badge/更新-2026--11-2ea44f) ![收录机场](https://img.shields.io/badge/收录机场-9-blue) ![监测](https://img.shields.io/badge/每日监测-51%20天-orange) ![数据](https://img.shields.io/badge/数据-CC%20BY%204.0-lightgrey)
+![更新](https://img.shields.io/badge/更新-2026--11-2ea44f) ![收录机场](https://img.shields.io/badge/收录机场-9-blue) ![监测](https://img.shields.io/badge/每日监测-52%20天-orange) ![数据](https://img.shields.io/badge/数据-CC%20BY%204.0-lightgrey)
 
 关键词：翻墙机场推荐、科学上网、梯子推荐、机场评测、便宜机场、稳定机场、Clash / Shadowrocket / v2rayN 节点、IEPL / IPLC 专线、ChatGPT / Claude / Codex / Gemini 解锁、Netflix 4K。
 
@@ -43,22 +43,22 @@
 
 ---
 
-## 每日自动监测（最近一次 2026-11-13 20:00）
+## 每日自动监测（最近一次 2026-11-14 20:03）
 
 <!-- monitor:start -->
 | 机场 | 最近一次检测 | 连续正常 |
 |:--|:--|:--:|
-| [二猫云](https://tizizhinan.blog/brands/ermaoyun/) | 官网在线 · 100%（27 天） | 51 天 |
-| [宇宙云](https://tizizhinan.blog/brands/yuzhouyun/) | 官网在线 · 100%（27 天） | 51 天 |
-| [光速云](https://tizizhinan.blog/brands/guangsu/) | 官网在线 · 100%（27 天） | 50 天 |
-| [星岛梦](https://tizizhinan.blog/brands/xingdaomeng/) | 官网在线 · 100%（27 天） | 50 天 |
-| [暮光网络](https://tizizhinan.blog/brands/muguang/) | 官网在线 · 100%（27 天） | 50 天 |
-| [微风网络](https://tizizhinan.blog/brands/weifeng/) | 官网在线 · 100%（27 天） | 50 天 |
-| [飞猫云](https://tizizhinan.blog/brands/feimao/) | 官网在线 · 100%（27 天） | 50 天 |
-| [无忧链接](https://tizizhinan.blog/brands/wuyou/) | 官网在线 · 100%（27 天） | 50 天 |
-| [边缘节点](https://tizizhinan.blog/brands/edgenova/) | 官网在线 · 100%（27 天） | 29 天 |
+| [二猫云](https://tizizhinan.blog/brands/ermaoyun/) | 官网在线 · 100%（27 天） | 52 天 |
+| [宇宙云](https://tizizhinan.blog/brands/yuzhouyun/) | 官网在线 · 100%（27 天） | 52 天 |
+| [光速云](https://tizizhinan.blog/brands/guangsu/) | 官网在线 · 100%（27 天） | 51 天 |
+| [星岛梦](https://tizizhinan.blog/brands/xingdaomeng/) | 官网在线 · 100%（27 天） | 51 天 |
+| [暮光网络](https://tizizhinan.blog/brands/muguang/) | 官网在线 · 100%（27 天） | 51 天 |
+| [微风网络](https://tizizhinan.blog/brands/weifeng/) | 官网在线 · 100%（27 天） | 51 天 |
+| [飞猫云](https://tizizhinan.blog/brands/feimao/) | 官网在线 · 100%（27 天） | 51 天 |
+| [无忧链接](https://tizizhinan.blog/brands/wuyou/) | 官网在线 · 100%（27 天） | 51 天 |
+| [边缘节点](https://tizizhinan.blog/brands/edgenova/) | 官网在线 · 100%（27 天） | 30 天 |
 
-探测节点：海外探测节点。「可用率」按官网可达计算；已连续记录 51 天。
+探测节点：海外探测节点。「可用率」按官网可达计算；已连续记录 52 天。
 逐日历史与色条见 [机场状态监测](https://tizizhinan.blog/status/)，机器可读数据见 [monitor.json](https://tizizhinan.blog/data/monitor.json)（CC BY 4.0，本仓库 `data/` 目录每日同步）。
 <!-- monitor:end -->
 
