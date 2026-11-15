@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-14T12:03:23.655Z",
+  "checkedAt": "2026-11-15T12:03:08.364Z",
   "region": "overseas-my",
   "providers": {
     "ermaoyun": {
@@ -7,7 +7,7 @@
       "site": {
         "ok": true,
         "status": 200,
-        "ms": 336
+        "ms": 416
       }
     },
     "yuzhouyun": {
@@ -15,7 +15,7 @@
       "site": {
         "ok": true,
         "status": 200,
-        "ms": 273
+        "ms": 365
       }
     },
     "xingdaomeng": {
@@ -23,7 +23,7 @@
       "site": {
         "ok": true,
         "status": 200,
-        "ms": 63
+        "ms": 50
       }
     },
     "muguang": {
@@ -31,7 +31,7 @@
       "site": {
         "ok": true,
         "status": 200,
-        "ms": 63
+        "ms": 51
       }
     },
     "weifeng": {
@@ -39,7 +39,7 @@
       "site": {
         "ok": true,
         "status": 200,
-        "ms": 84
+        "ms": 57
       }
     },
     "feimao": {
@@ -47,7 +47,7 @@
       "site": {
         "ok": true,
         "status": 200,
-        "ms": 159
+        "ms": 130
       }
     },
     "guangsu": {
@@ -55,7 +55,7 @@
       "site": {
         "ok": true,
         "status": 200,
-        "ms": 73
+        "ms": 49
       }
     },
     "wuyou": {
@@ -63,7 +63,7 @@
       "site": {
         "ok": true,
         "status": 200,
-        "ms": 169
+        "ms": 157
       }
     },
     "edgenova": {
@@ -71,7 +71,7 @@
       "site": {
         "ok": true,
         "status": 200,
-        "ms": 273
+        "ms": 272
       }
     }
   }
